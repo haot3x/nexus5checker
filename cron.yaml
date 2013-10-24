@@ -1,0 +1,4 @@
+cron:
+- description: check google play store for nexus 5
+  url: /
+  schedule: every 5 minutes
